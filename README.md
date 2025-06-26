@@ -162,4 +162,5 @@ java -cp out ui.GameMain
 - **Objective:** Move blocks to reach the exit (magenta cell)
 - **Controls:** Reset button to restart, Undo to reverse moves
 - **Scoring:** Tracks number of moves made
+
 ![Solved Image](images/Solved.png)
