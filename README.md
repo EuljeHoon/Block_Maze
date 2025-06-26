@@ -152,6 +152,7 @@ java -cp out ui.GameMain
 - **Click Load:** Click load and go to the Block_Maze/games.txt and open the .txt file.
 ![Starting Game Image](images/Starting_Game.png)
 ![Game Option Image](images/Game_Options.png)
+
 - **Select the size of board:** You will see options for the game like picture above.
 - **Select and play:** Select one of the options and play.
 ![Larger Game Image](images/Large_Game.png)
