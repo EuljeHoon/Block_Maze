@@ -1,5 +1,6 @@
-import block_maze.Block;
+package block_maze;
 
+import block_maze.Block;
 import static api.Orientation.*;
 import static api.CellType.*;
 
